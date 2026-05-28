@@ -265,7 +265,7 @@ cd url-shortener
 
 **Backend** — Create `backend/.env`:
 ```env
-MONGO_URI=mongodb+srv://YOUR_USER:YOUR_PASSWORD@cluster0.xxxxx.mongodb.net/url_shortener
+MONGO_URI=your_mongodb_atlas_connection_string_here
 JWT_SECRET=your-super-secret-key-change-this-in-production
 JWT_EXPIRE=30d
 PORT=5000
