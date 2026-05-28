@@ -480,19 +480,20 @@ Visit **http://localhost:5173** — You should see the Sniplink landing page!
 
 ## 🎬 Video Demo
 
-> Record a 3-5 minute demo video showing:
-> 1. Landing page walkthrough
-> 2. User registration
-> 3. Creating a short URL
-> 4. Visiting the short URL (redirect)
-> 5. Dashboard with click stats
-> 6. Analytics page with charts
-> 7. QR code generation & download
-> 8. Custom alias feature
-> 9. CSV bulk upload
-> 10. Mobile responsive demo
+Watch the full application walkthrough and feature demonstration:
 
-**Upload to YouTube/Loom and paste the link here.**
+[![Sniplink Demo Video](https://img.youtube.com/vi/Iv5cZYVDZBI/maxresdefault.jpg)](https://youtu.be/Iv5cZYVDZBI?si=YLI9TToRIfDLVueW)
+
+🔗 **[Watch on YouTube](https://youtu.be/Iv5cZYVDZBI?si=YLI9TToRIfDLVueW)**
+
+The demo covers:
+- Landing page walkthrough
+- User registration & login
+- URL shortening with custom alias
+- Short URL redirection
+- Dashboard with click stats
+- Analytics page with charts
+- QR code generation & download
 
 ---
 
